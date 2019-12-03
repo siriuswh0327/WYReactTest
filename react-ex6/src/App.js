@@ -1,6 +1,5 @@
 import React, {useState} from 'react';
 import InputNumber from './InputNumber'
-import './App.css';
 
 function App(){
   // eslint-disable-next-line 
